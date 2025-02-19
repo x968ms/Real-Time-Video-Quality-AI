@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+tensorflow
+flask
+ffmpeg-python
+scikit-video
+pandas
+scikit-learn
